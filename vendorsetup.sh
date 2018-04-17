@@ -27,6 +27,6 @@
 #  IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #
 
-add_lunch_combo nr_marlin-userdebug
+add_lunch_combo dot_marlin-userdebug
 add_lunch_combo aosp_marlin_svelte-userdebug
 add_lunch_combo aosp_sailfish-userdebug
